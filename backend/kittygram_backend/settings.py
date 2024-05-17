@@ -64,7 +64,7 @@ DATABASES = {
 }
 
 
-# https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password
+# https://docs.djangoproject.com/en/3.2/ref/settings/
 
 AUTH_PASSWORD_VALIDATORS = [
     {
@@ -96,7 +96,7 @@ STATIC_URL = '/static_backend/'
 # Укажите директорию, куда бэкенд-приложение должно сложить статику.
 STATIC_ROOT = BASE_DIR / 'static_backend'
 MEDIA_URL = '/media/'
-MEDIA_ROOT = '/var/www/kittygram/media/'
+MEDIA_ROOT = '/var/www/kittygram/media'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
