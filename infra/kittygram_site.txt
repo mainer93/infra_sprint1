@@ -1,0 +1,5 @@
+IP: 158.160.76.55;
+name_taski: https://mainer93.ddns.net;
+name_kittygram: https://mainer93kittygram.ddns.net;
+login: AdminSasha;
+password: GolfAdmin;
